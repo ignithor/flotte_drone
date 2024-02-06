@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/paul/Development/ros2_ws/install/trajectoire/lib/python3.10/site-packages",
+        "/home/paul/Development/ros2_ws/install/ls2n_drone_sitl/lib/python3.10/site-packages",
+        "/home/paul/Development/ros2_ws/install/ls2n_drone_command_center/lib/python3.10/site-packages",
+        "/home/paul/Development/ros2_ws/install/ls2n_drone_armada/lib/python3.10/site-packages",
+        "/home/paul/Development/ros2_ws/install/ls2n_drone_bridge/lib/python3.10/site-packages",
+        "/home/paul/Development/ros2_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/paul/Development/ros2_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/home/paul/Development/ros2_ws/install/ls2n_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/paul/Development/ros2_ws/install/trajectoire/lib/python3.10/site-packages",
+        "/home/paul/Development/ros2_ws/install/ls2n_drone_sitl/lib/python3.10/site-packages",
+        "/home/paul/Development/ros2_ws/install/ls2n_drone_command_center/lib/python3.10/site-packages",
+        "/home/paul/Development/ros2_ws/install/ls2n_drone_armada/lib/python3.10/site-packages",
+        "/home/paul/Development/ros2_ws/install/ls2n_drone_bridge/lib/python3.10/site-packages",
+        "/home/paul/Development/ros2_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/paul/Development/ros2_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/home/paul/Development/ros2_ws/install/ls2n_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

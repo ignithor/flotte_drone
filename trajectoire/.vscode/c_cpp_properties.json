@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/paul/Development/ros2_ws/install/px4_msgs/include/**",
+        "/home/paul/Development/ros2_ws/install/micro_ros_agent/include/**",
+        "/home/paul/Development/ros2_ws/install/micro_ros_msgs/include/**",
+        "/home/paul/Development/ros2_ws/install/ls2n_interfaces/include/**",
+        "/home/paul/Development/ros2_ws/install/libros2qt/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/paul/Development/ros2_ws/src/ls2n_drone_env/libros2qt/include/**",
+        "/home/paul/Development/ros2_ws/src/ls2n_drone_env/ls2n_drone_ui/include/**",
+        "/home/paul/Development/ros2_ws/src/ls2n_drone_env/micro-ROS-Agent/micro_ros_agent/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
